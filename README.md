@@ -46,12 +46,4 @@ when a transaction is successfully processed some gateways return transaction id
 but if you are using J2pay you will always receive "transactionId".
 
 
-# Contributing
-
-1. Fork the project.
-2. Make your feature addition or bug fix.
-3. Commit just the modifications.
-4. Ensure your code is nicely formatted.
-5. Send the pull request.
-
 
