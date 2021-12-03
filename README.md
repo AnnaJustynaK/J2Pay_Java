@@ -45,25 +45,6 @@ for example.
 when a transaction is successfully processed some gateways return transaction id as transaction_id or transId or trans_tag blah blah.
 but if you are using J2pay you will always receive "transactionId".
 
-## Documentaion
-
-You can find documention inside docs directory, documentation is build on php so you must host it.
-
-The following gateways are available.
-
-#| Gateway | Recurring Support | Auth + Capture | Maintainer(s)
---- | --- | --- | --- | ---
-1 | Authorize | ✓ | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-2 | NMI | ✓ | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-3 | PAYEEZY | x | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-4 | PAYFLOW PRO | ✓ | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-5 | BillPro | ✓ | ✓ | [Tousif Khan](https://www.linkedin.com/in/tousifhasanzai/), [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-6 | EasyPay | ✓ | ✓ | [Tousif Khan](https://www.linkedin.com/in/tousifhasanzai/), [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-7 | Checkout | ✓ | x | [Tousif Khan](https://www.linkedin.com/in/tousifhasanzai/)
-8 | Stripe | ✓ | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-9 | Braintree | ✓ | ✓ | [Muhammad Ilyas](https://www.linkedin.com/in/muhammad-ilyas-a4ab7839/)
-
-**`Note`** if your desired gateway is not in list you are free to create an issue and we will integrate that gateway for you. or you can also write us at info@tranxactive.com
 
 # Contributing
 
@@ -73,11 +54,4 @@ The following gateways are available.
 4. Ensure your code is nicely formatted.
 5. Send the pull request.
 
-**`Contributors are welcome to add or improve gateways but modifications to core library are not allowed, although we are open for suggestions`**
 
-# Contact us.
-
-Feel free to contact us at info@tranxactive.com.
-Your feedback is very important for us.
-
-**`GOOD LUCK`**
